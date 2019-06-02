@@ -1,7 +1,7 @@
 indonesia.json
 ==============
 
-Daftar daerah-daerah di Indonesia lengkap sampai kota kecamatan dalam format JSON. Berguna untuk developer yang menginginkan user memilih kota asal mereka. Kota kecamatan belum lengkap untuk beberapa kabupaten. Sangat berterimakasih jika ada yang mau membantu melengkapinya.
+Daftar daerah-daerah di Indonesia lengkap sampai kota kecamatan dalam format JSON. Berguna untuk developer yang menginginkan user memilih kota asal mereka thanks to github.com/sasongko26. Kota kecamatan belum lengkap untuk beberapa kabupaten. Sangat berterimakasih jika ada yang mau membantu melengkapinya.
 
 Untuk membaca file JSON ke dalam array di PHP, gunakan:
 
